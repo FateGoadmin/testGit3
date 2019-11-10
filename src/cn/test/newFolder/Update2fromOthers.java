@@ -9,4 +9,5 @@ package cn.test.newFolder;
 public class Update2fromOthers {
 
     String a = "1";
+    String b = "22";
 }
