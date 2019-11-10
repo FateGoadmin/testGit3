@@ -11,4 +11,5 @@ public class Update2fromOthers {
     String a = "1";
     String b = "22";
     String vc = "ss";
+    String dd = "ass";
 }
