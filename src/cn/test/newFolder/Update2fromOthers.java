@@ -7,4 +7,6 @@ package cn.test.newFolder;
  * @date
  */
 public class Update2fromOthers {
+
+    String a = "1";
 }
