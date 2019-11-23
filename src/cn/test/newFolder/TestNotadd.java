@@ -6,7 +6,7 @@ package cn.test.newFolder;
  * @Description:
  * @date
  */
-public class TestNotAdd {
+public class TestNotadd {
 
 
     public void testNotAdd() {
