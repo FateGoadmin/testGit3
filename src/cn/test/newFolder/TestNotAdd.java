@@ -15,4 +15,8 @@ public class TestNotAdd {
     public void sayHi(){
         System.out.println("fuck");
     }
+
+    public void sayA(){
+
+    }
 }
