@@ -8,7 +8,11 @@ package cn.test.newFolder;
  */
 public class TestNotAdd {
 
-    public void testNotAdd(){
+
+    public void testNotAdd() {
         System.out.println("hi");
+    }
+    public void sayHi(){
+        System.out.println("fuck");
     }
 }
