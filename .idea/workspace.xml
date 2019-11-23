@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cc9ef92-cae4-4623-a9fa-841786e606d1" name="Default Changelist" comment="ces" />
+    <list default="true" id="2cc9ef92-cae4-4623-a9fa-841786e606d1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/test/newFolder/TestNotAdd.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/test/newFolder/TestNotadd.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
               <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
@@ -97,6 +97,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/cn/test/newFolder/Update2fromOthers.java" />
         <option value="$PROJECT_DIR$/src/cn/test/newFolder/TestNotAdd.java" />
+        <option value="$PROJECT_DIR$/src/cn/test/newFolder/TestNotadd.java" />
       </list>
     </option>
   </component>
@@ -156,6 +157,13 @@
               <item name="testGit3" type="b2602c69:ProjectViewProjectNode" />
               <item name="testGit3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="newFolder" type="462c0819:PsiDirectoryNode" />
+              <item name="TestNotadd" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="testGit3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testGit3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="update2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -198,7 +206,7 @@
       <updated>1573389647566</updated>
       <workItem from="1573389652589" duration="3379000" />
       <workItem from="1573659172271" duration="43000" />
-      <workItem from="1574477017940" duration="2226000" />
+      <workItem from="1574477017940" duration="2519000" />
     </task>
     <task id="LOCAL-00001" summary="ces">
       <created>1573389724669</created>
@@ -249,14 +257,21 @@
       <option name="project" value="LOCAL" />
       <updated>1574477974998</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ces">
+      <created>1574479345506</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574479345506</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5648000" />
+    <option name="totallyTimeSpent" value="5941000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23324397" />
@@ -305,13 +320,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/test/newFolder/TestUpdate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/test/newFolder/Update2fromOthers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -333,7 +341,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/test/newFolder/TestNotAdd.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/test/newFolder/TestUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/test/newFolder/TestNotadd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
