@@ -16,7 +16,9 @@ public class TestNotAdd {
         System.out.println("fuck");
     }
 
-    public void sayA(){
-
+    public void sayA() {
+    }
+    public void dd(){
+        System.out.println("delete");
     }
 }

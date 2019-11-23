@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cc9ef92-cae4-4623-a9fa-841786e606d1" name="Default Changelist" comment="ceeee">
+    <list default="true" id="2cc9ef92-cae4-4623-a9fa-841786e606d1" name="Default Changelist" comment="ces">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/test/newFolder/Update2fromOthers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/test/newFolder/Update2fromOthers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/test/newFolder/TestNotAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/test/newFolder/TestNotAdd.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,19 +27,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+        <entry file="file://$PROJECT_DIR$/src/cn/test/newFolder/TestUpdate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/update2/TestUpdate2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/test/newFolder/TestNotAdd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/test/newFolder/Update2fromOthers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="266">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -55,11 +79,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="testBranch" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/cn/test/newFolder/Update2fromOthers.java" />
+        <option value="$PROJECT_DIR$/src/cn/test/newFolder/TestNotAdd.java" />
       </list>
     </option>
   </component>
@@ -78,8 +108,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="116" />
-    <option name="y" value="1" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="945" />
     <option name="height" value="980" />
   </component>
@@ -89,35 +119,49 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="testPull3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testPull3" type="462c0819:PsiDirectoryNode" />
+              <item name="testGit3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testGit3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testPull3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testPull3" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testPull3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testPull3" type="462c0819:PsiDirectoryNode" />
+              <item name="testGit3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testGit3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testPull3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testPull3" type="462c0819:PsiDirectoryNode" />
+              <item name="testGit3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testGit3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="update" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testGit3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testGit3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="newFolder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testGit3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testGit3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="newFolder" type="462c0819:PsiDirectoryNode" />
+              <item name="TestNotAdd" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="testGit3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testGit3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="update2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,7 +196,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573389647566</updated>
-      <workItem from="1573389652589" duration="892000" />
+      <workItem from="1573389652589" duration="3379000" />
+      <workItem from="1573659172271" duration="43000" />
+      <workItem from="1574477017940" duration="1697000" />
     </task>
     <task id="LOCAL-00001" summary="ces">
       <created>1573389724669</created>
@@ -168,24 +214,52 @@
       <option name="project" value="LOCAL" />
       <updated>1573390032956</updated>
     </task>
-    <task id="LOCAL-00003" summary="ceeee">
-      <created>1573391038849</created>
+    <task id="LOCAL-00003" summary="ces">
+      <created>1573390607752</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1573391038849</updated>
+      <updated>1573390607752</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ces">
+      <created>1573391303636</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573391303636</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ces">
+      <created>1573391920385</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573391920385</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ces">
+      <created>1574477732125</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574477732125</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ces">
+      <created>1574477974998</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574477974998</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2254000" />
+    <option name="totallyTimeSpent" value="5119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.117962465" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23324397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -197,16 +271,16 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932975" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932975" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" visible="true" weight="0.37818697" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,10 +288,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ces" />
-    <MESSAGE value="ceeee" />
-    <option name="LAST_COMMIT_MESSAGE" value="ceeee" />
+    <option name="LAST_COMMIT_MESSAGE" value="ces" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/cn/branch/update/TestBranch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -232,17 +312,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/src/cn/test/newFolder/Update2fromOthers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="266">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/test/newFolder/Update2fromOthers.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/update2/TestUpdate2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="133">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/test/newFolder/TestNotAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
